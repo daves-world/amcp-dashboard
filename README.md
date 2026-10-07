@@ -1,6 +1,6 @@
 # AMCP Ltd | Executive Performance Dashboard (R Shiny)
 
-**Live app:** <!-- https://pd33wd-david-akande.shinyapps.io/amcp-dashboard/ -->
+**Live app:** !https://pd33wd-david-akande.shinyapps.io/amcp-dashboard/
 
 ![Dashboard preview](screenshots/financial.png)
 
