@@ -1,0 +1,56 @@
+KPI,Dimension,Unit,Direction,Aggregation,2024 Actual,2025 Actual,2026 Actual,Target,Achievement %,Status
+Revenue,Financial Performance,GHS,Higher is Better,Total (sum),183663399.48,204601455.28,222140019.16,210000000.0,105.780961504762,On Target
+Revenue Growth,Financial Performance,%,Higher is Better,Average,0.772668326077787,0.722885942500961,1.00721952137742,8.0,12.5902440172177,Critical
+Gross Profit Margin,Financial Performance,%,Higher is Better,Average,37.4416666651468,38.9583333303,40.1499999986736,42.0,95.59523809208,Watch
+EBITDA Margin,Financial Performance,%,Higher is Better,Average,14.7249999962199,16.0333333319567,17.5166666685206,18.0,97.3148148251142,Watch
+Operating Cost Ratio,Financial Performance,%,Lower is Better,Average,29.4166666687833,27.8583333306025,25.9499999967405,26.0,100.192678239945,On Target
+Net Profit Margin,Financial Performance,%,Higher is Better,Average,7.74999999178424,9.04999999837964,10.0666666675071,11.0,91.515151522792,Attention
+Operating Cash Flow,Financial Performance,GHS,Higher is Better,Total (sum),23418441.21,24660204.35,27414653.67,30000000.0,91.3821789,Attention
+Working Capital Ratio,Financial Performance,ratio,Higher is Better,Average,1.38853143901696,1.43642881390291,1.54121689705378,1.5,102.747793136918,On Target
+Production Volume,Operational Performance,units,Higher is Better,Total (sum),10397086.0,11200152.0,12064755.0,11000000.0,109.679590909091,On Target
+Capacity Utilisation,Operational Performance,%,Higher is Better,Average,81.7109368901106,86.9351010175137,92.2028536513779,85.0,108.473945472209,On Target
+Production Yield,Operational Performance,%,Higher is Better,Average,88.3250107273475,91.074999132506,94.016677372444,95.0,98.9649235499411,Watch
+Overall Equipment Effectiveness (OEE),Operational Performance,%,Higher is Better,Average,60.6926492833333,68.3335911583333,73.4438908666667,75.0,97.9251878222222,Watch
+Production Downtime,Operational Performance,hours,Lower is Better,Total (sum),1746.27,1729.68,1477.39,1000.0,67.6869343910545,Critical
+Defect Rate,Operational Performance,%,Lower is Better,Average,5.19166765283739,4.30000735153452,3.37500281323315,3.0,88.8888147955673,Attention
+Scrap Rate,Operational Performance,%,Lower is Better,Average,6.14999995952788,5.38333337545178,3.74166669033188,4.0,106.90423094969,On Target
+On-Time Production,Operational Performance,%,Higher is Better,Average,80.1346407318012,86.4712824928589,90.3231184399447,92.0,98.1773026521138,Watch
+Inventory Turnover,Operational Performance,ratio,Higher is Better,Average,1.10582926490677,1.15239790745935,1.19194294605321,7.0,17.0277563721888,Critical
+Energy Intensity,Operational Performance,MWh/unit,Lower is Better,Average,0.00113887710707777,0.00103142880328215,0.000975659283448599,0.001,102.494796796825,On Target
+Customer Satisfaction,Customer & Market,score/100,Higher is Better,Average,73.2916666666667,78.2916666666667,82.9,85.0,97.5294117647059,Watch
+Net Promoter Score,Customer & Market,NPS (-100 to 100),Higher is Better,Average,20.2166666666667,26.65,37.4583333333333,45.0,83.2407407407408,Critical
+Customer Complaints,Customer & Market,count,Lower is Better,Total (sum),508.0,417.0,295.0,350.0,118.64406779661,On Target
+Complaint Resolution Rate,Customer & Market,%,Higher is Better,Average,73.758330748336,82.7658890115888,87.9904125008086,93.0,94.6133467750631,Attention
+On-Time Delivery,Customer & Market,%,Higher is Better,Average,77.8989298725673,82.5166092741647,88.2573901919927,92.0,95.9319458608616,Watch
+Order Fulfilment Rate,Customer & Market,%,Higher is Better,Average,87.1543039303197,90.4847273618207,94.3058532428525,97.0,97.2225291163427,Watch
+Customer Retention,Customer & Market,%,Higher is Better,Average,100.731813874312,100.73910107316,100.906538301527,95.0,106.217408738449,On Target
+Market Share,Customer & Market,%,Higher is Better,Average,13.3597797368613,14.1646543249962,14.4130014617194,14.0,102.950010440853,On Target
+Scope 1 GHG Emissions,Sustainability,tCO2e,Lower is Better,Total (sum),1783.27,1673.95,1580.38,1300.0,82.2586972753388,Critical
+Scope 2 GHG Emissions,Sustainability,tCO2e,Lower is Better,Total (sum),2460.69,2176.52,1947.53,1900.0,97.5594727680703,Watch
+Energy Consumption,Sustainability,MWh,Lower is Better,Total (sum),11744.47,11492.86,11682.8,10500.0,89.8757147259219,Attention
+Renewable Energy Share,Sustainability,%,Higher is Better,Average,10.8083414404998,21.0667026605137,30.4499213869657,35.0,86.9997753913305,Attention
+Water Consumption,Sustainability,m3,Lower is Better,Total (sum),171891.31,166484.66,168260.33,150000.0,89.1475726928623,Attention
+Production Waste,Sustainability,tonnes,Lower is Better,Total (sum),799.85,783.82,758.03,650.0,85.7485851483451,Attention
+Waste Recycling Rate,Sustainability,%,Higher is Better,Average,33.7056084901905,46.3993146233079,57.018182690742,60.0,95.03030448457,Watch
+GHG Intensity,Sustainability,tCO2e/unit,Lower is Better,Average,0.000410337446353198,0.000344945737600888,0.000293424051456641,0.0003,102.241107540679,On Target
+Lost-Time Injury Rate,Sustainability,"per 200,000 hrs",Lower is Better,Average,3.42428185818789,2.02445882505967,1.48578736585234,1.0,67.3043817024474,Critical
+Employee Training Hours,Sustainability,hours,Higher is Better,Total (sum),13572.0,15115.0,16144.0,15000.0,107.626666666667,On Target
+Total Employees,People & Human Capital,count,N/A (context),Average,524.166666666667,537.75,549.666666666667,,,N/A (context metric)
+Employee Turnover,People & Human Capital,%,Lower is Better,Average,14.7666666666667,12.2666666666667,9.08333333333333,10.0,110.091743119266,On Target
+Employee Absenteeism,People & Human Capital,%,Lower is Better,Average,6.175,5.59166666666667,4.225,4.0,94.6745562130177,Attention
+Training Hours per Employee,People & Human Capital,hours,Higher is Better,Total (sum),25.9283405695501,28.12471747064,29.3917989609244,28.0,104.97071057473,On Target
+Employee Engagement,People & Human Capital,%,Higher is Better,Average,63.7083333333333,68.8833333333333,75.1833333333333,78.0,96.3888888888889,Watch
+Female Workforce Representation,People & Human Capital,%,Higher is Better,Average,30.292358400927,33.1059737236749,36.1989641808751,40.0,90.4974104521876,Attention
+Internal Promotion Rate,People & Human Capital,%,Higher is Better,Total (sum),10.8992883788656,9.49660370023899,11.2891023557365,8.0,141.113779446706,On Target
+Lost-Time Injuries,People & Human Capital,count,Lower is Better,Total (sum),40.0,24.0,18.0,25.0,138.888888888889,On Target
+Safety Training Completion,People & Human Capital,%,Higher is Better,Average,72.1833333333333,81.4833333333333,90.4916666666667,95.0,95.2543859649123,Watch
+Employee Productivity,People & Human Capital,units/employee,Higher is Better,Average,1652.83384353495,1735.56684631463,1829.38587052142,1700.0,107.610933560083,On Target
+Regulatory Compliance Rate,Governance & Risk,%,Higher is Better,Average,89.7166666666667,92.4,96.4583333333333,97.0,99.4415807560137,Watch
+Internal Audit Issues,Governance & Risk,count,Lower is Better,Total (sum),78.0,66.0,42.0,60.0,142.857142857143,On Target
+High-Risk Issues Outstanding,Governance & Risk,count,Lower is Better,Total (sum),31.0,40.0,19.0,15.0,78.9473684210526,Critical
+Issues Closed on Time,Governance & Risk,%,Higher is Better,Average,62.827380952381,72.0634920634921,72.1428571428571,85.0,84.8739495798319,Critical
+Ethics Training Completion,Governance & Risk,%,Higher is Better,Average,74.2916666666667,81.3583333333333,91.6666666666667,95.0,96.4912280701754,Watch
+Reportable Compliance Incidents,Governance & Risk,count,Lower is Better,Total (sum),25.0,13.0,13.0,20.0,153.846153846154,On Target
+Data Privacy Incidents,Governance & Risk,count,Lower is Better,Total (sum),10.0,15.0,11.0,12.0,109.090909090909,On Target
+Supplier Compliance Rate,Governance & Risk,%,Higher is Better,Average,68.7916666666667,75.1083333333333,82.8083333333333,85.0,97.421568627451,Watch
+Board Meeting Attendance,Governance & Risk,%,Higher is Better,Average,84.3,89.15,93.4083333333334,95.0,98.3245614035088,Watch

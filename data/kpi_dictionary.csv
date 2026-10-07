@@ -1,0 +1,56 @@
+KPI Name,Dimension,Unit,Direction,Strategic Objective,Formula / Measurement
+Revenue,Financial Performance,GHS,Higher is Better,1. Increase profitable revenue growth,Total sales revenue
+Revenue Growth,Financial Performance,%,Higher is Better,1. Increase profitable revenue growth,(Current Revenue − Previous Revenue) / Previous Revenue
+Gross Profit Margin,Financial Performance,%,Higher is Better,1. Increase profitable revenue growth,Gross Profit / Revenue × 100
+EBITDA Margin,Financial Performance,%,Higher is Better,1. Increase profitable revenue growth,EBITDA / Revenue × 100
+Operating Cost Ratio,Financial Performance,%,Lower is Better,3. Reduce production costs and resource consumption,Operating Costs / Revenue × 100
+Net Profit Margin,Financial Performance,%,Higher is Better,1. Increase profitable revenue growth,Profit After Tax / Revenue × 100
+Operating Cash Flow,Financial Performance,GHS,Higher is Better,1. Increase profitable revenue growth,Cash generated from operations
+Working Capital Ratio,Financial Performance,ratio,Higher is Better,1. Increase profitable revenue growth,Current Assets / Current Liabilities
+Production Volume,Operational Performance,units,Higher is Better,2. Improve production efficiency and capacity utilisation,Units produced
+Capacity Utilisation,Operational Performance,%,Higher is Better,2. Improve production efficiency and capacity utilisation,Actual Production / Available Capacity × 100
+Production Yield,Operational Performance,%,Higher is Better,2. Improve production efficiency and capacity utilisation,Good Output / Total Input × 100
+Overall Equipment Effectiveness (OEE),Operational Performance,%,Higher is Better,2. Improve production efficiency and capacity utilisation,Availability × Performance × Quality
+Production Downtime,Operational Performance,hours,Lower is Better,2. Improve production efficiency and capacity utilisation,Hours lost to downtime
+Defect Rate,Operational Performance,%,Lower is Better,3. Reduce production costs and resource consumption,Defective Units / Total Units × 100
+Scrap Rate,Operational Performance,%,Lower is Better,3. Reduce production costs and resource consumption,Scrap Material / Total Material Input × 100
+On-Time Production,Operational Performance,%,Higher is Better,2. Improve production efficiency and capacity utilisation,Orders completed on schedule / Total orders × 100
+Inventory Turnover,Operational Performance,ratio,Higher is Better,2. Improve production efficiency and capacity utilisation,Cost of Goods Sold / Average Inventory (COGS derived as Revenue − Gross Profit)
+Energy Intensity,Operational Performance,MWh/unit,Lower is Better,3. Reduce production costs and resource consumption,Energy Consumption / Production Output
+Customer Satisfaction,Customer & Market,score/100,Higher is Better,4. Improve customer satisfaction and market service levels,Customer survey score
+Net Promoter Score,Customer & Market,NPS (-100 to 100),Higher is Better,4. Improve customer satisfaction and market service levels,Net Promoter Score
+Customer Complaints,Customer & Market,count,Lower is Better,4. Improve customer satisfaction and market service levels,Number of complaints
+Complaint Resolution Rate,Customer & Market,%,Higher is Better,4. Improve customer satisfaction and market service levels,Resolved Complaints / Total Complaints × 100
+On-Time Delivery,Customer & Market,%,Higher is Better,4. Improve customer satisfaction and market service levels,On-Time Deliveries / Total Deliveries × 100
+Order Fulfilment Rate,Customer & Market,%,Higher is Better,4. Improve customer satisfaction and market service levels,Orders Fulfilled / Orders Received × 100
+Customer Retention,Customer & Market,%,Higher is Better,4. Improve customer satisfaction and market service levels,Retained Customers / Previous Customers × 100 (Previous = prior month’s Total Customers)
+Market Share,Customer & Market,%,Higher is Better,1. Increase profitable revenue growth,Company Sales / Total Market Sales × 100
+Scope 1 GHG Emissions,Sustainability,tCO2e,Lower is Better,"5. Strengthen employee, environmental and governance performance",Direct emissions
+Scope 2 GHG Emissions,Sustainability,tCO2e,Lower is Better,"5. Strengthen employee, environmental and governance performance",Indirect (energy) emissions
+Energy Consumption,Sustainability,MWh,Lower is Better,3. Reduce production costs and resource consumption,Total energy consumed
+Renewable Energy Share,Sustainability,%,Higher is Better,"5. Strengthen employee, environmental and governance performance",Renewable Energy / Energy Consumption × 100 (formula not given in case; standard ratio applied)
+Water Consumption,Sustainability,m3,Lower is Better,3. Reduce production costs and resource consumption,Total water consumed
+Production Waste,Sustainability,tonnes,Lower is Better,3. Reduce production costs and resource consumption,Total production waste generated
+Waste Recycling Rate,Sustainability,%,Higher is Better,"5. Strengthen employee, environmental and governance performance",Recycled Waste / Production Waste × 100 (formula not given in case; standard ratio applied)
+GHG Intensity,Sustainability,tCO2e/unit,Lower is Better,3. Reduce production costs and resource consumption,(Scope 1 + Scope 2) / production unit
+Lost-Time Injury Rate,Sustainability,"per 200,000 hrs",Lower is Better,"5. Strengthen employee, environmental and governance performance","(Lost-Time Injuries × 200,000) / Total Hours Worked — standard OSHA-style incidence rate (specific formula not given in case; applied as a reasonable, documented assumption)"
+Employee Training Hours,Sustainability,hours,Higher is Better,"5. Strengthen employee, environmental and governance performance",Total training hours delivered (company-wide; per-employee version appears under People)
+Total Employees,People & Human Capital,count,N/A (context),"5. Strengthen employee, environmental and governance performance",Number
+Employee Turnover,People & Human Capital,%,Lower is Better,"5. Strengthen employee, environmental and governance performance",%
+Employee Absenteeism,People & Human Capital,%,Lower is Better,"5. Strengthen employee, environmental and governance performance",%
+Training Hours per Employee,People & Human Capital,hours,Higher is Better,"5. Strengthen employee, environmental and governance performance","Employee Training Hours (Sustainability) / Total Employees (formula not given in case; derived as a reasonable, documented assumption)"
+Employee Engagement,People & Human Capital,%,Higher is Better,"5. Strengthen employee, environmental and governance performance",%
+Female Workforce Representation,People & Human Capital,%,Higher is Better,"5. Strengthen employee, environmental and governance performance","Female Employees / Total Employees × 100 (formula not given in case; derived as a reasonable, documented assumption)"
+Internal Promotion Rate,People & Human Capital,%,Higher is Better,"5. Strengthen employee, environmental and governance performance","Internal Promotions / Total Employees × 100 (formula not given in case; derived as a reasonable, documented assumption)"
+Lost-Time Injuries,People & Human Capital,count,Lower is Better,"5. Strengthen employee, environmental and governance performance",Number (feeds the Lost-Time Injury Rate under Sustainability)
+Safety Training Completion,People & Human Capital,%,Higher is Better,"5. Strengthen employee, environmental and governance performance",%
+Employee Productivity,People & Human Capital,units/employee,Higher is Better,2. Improve production efficiency and capacity utilisation,"Output / Employee (Output = Production Volume; formula not given in case, derived as a reasonable, documented assumption)"
+Regulatory Compliance Rate,Governance & Risk,%,Higher is Better,"5. Strengthen employee, environmental and governance performance",%
+Internal Audit Issues,Governance & Risk,count,Lower is Better,"5. Strengthen employee, environmental and governance performance",Number
+High-Risk Issues Outstanding,Governance & Risk,count,Lower is Better,"5. Strengthen employee, environmental and governance performance",Number
+Issues Closed on Time,Governance & Risk,%,Higher is Better,"5. Strengthen employee, environmental and governance performance","Issues Closed on Time / Internal Audit Issues × 100 (denominator not specified in case; Internal Audit Issues applied as a reasonable, documented assumption)"
+Ethics Training Completion,Governance & Risk,%,Higher is Better,"5. Strengthen employee, environmental and governance performance",%
+Reportable Compliance Incidents,Governance & Risk,count,Lower is Better,"5. Strengthen employee, environmental and governance performance",Number
+Data Privacy Incidents,Governance & Risk,count,Lower is Better,"5. Strengthen employee, environmental and governance performance",Number
+Supplier Compliance Rate,Governance & Risk,%,Higher is Better,"5. Strengthen employee, environmental and governance performance",%
+Board Meeting Attendance,Governance & Risk,%,Higher is Better,"5. Strengthen employee, environmental and governance performance",%
