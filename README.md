@@ -1,7 +1,8 @@
 # AMCP Ltd | Executive Performance Dashboard (R Shiny)
 
-**Live app:** !https://pd33wd-david-akande.shinyapps.io/amcp-dashboard/
+**Live app:** https://pd33wd-david-akande.shinyapps.io/amcp-dashboard/
 
+**Screenshot:**
 ![Dashboard preview](screenshots/financial.png)
 
 An interactive R Shiny dashboard for **Akan Manufacturing & Consumer Products Ltd (AMCP)**, rebuilt from a Power BI report. It tracks 55 KPIs (54 with targets) across six strategic dimensions, Jan 2024 to Dec 2026, against 2026 targets.
