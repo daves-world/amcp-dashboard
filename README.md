@@ -1,9 +1,8 @@
 # AMCP Ltd | Executive Performance Dashboard (R Shiny)
 
-**Live app:** <!-- paste your shinyapps.io link here, e.g. https://YOURACCOUNT.shinyapps.io/amcp-dashboard/ -->
+**Live app:** <!-- https://pd33wd-david-akande.shinyapps.io/amcp-dashboard/ -->
 
 ![Dashboard preview](screenshots/financial.png)
-<!-- Add 1-2 screenshots to a /screenshots folder -->
 
 An interactive R Shiny dashboard for **Akan Manufacturing & Consumer Products Ltd (AMCP)**, rebuilt from a Power BI report. It tracks 55 KPIs (54 with targets) across six strategic dimensions, Jan 2024 to Dec 2026, against 2026 targets.
 
@@ -26,11 +25,6 @@ Each page has KPI cards, trend charts, a **KPI health donut** and a scorecard ta
 ## Tech
 R, Shiny, bslib, plotly, dplyr, DT. Hosted on shinyapps.io.
 
-## Run locally
-```r
-install.packages(c("shiny", "bslib", "plotly", "dplyr", "DT"))
-shiny::runApp()
-```
 
 ## Project structure
 ```
